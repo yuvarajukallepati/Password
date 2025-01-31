@@ -1,3 +1,6 @@
+# This code will give you a strong password of your desired length.
+
+
 import random
 length=int(input("enter the length of password: "))
 if(length>3):
